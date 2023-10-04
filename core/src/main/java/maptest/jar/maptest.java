@@ -80,8 +80,8 @@ public class maptest extends ApplicationAdapter {
         /////////////////////////////////////////////////////
         Path<SimpleCell> path1 = Graph.algorithms().findShortestPath(Map[79][76],Map[50][90], TheHeuristic);
 
-        //path 1 includes a bit where it goes from Map[82][72] to Map[82][71]
-        //let's assume that path is more expensive and try again.
+        //if the path starts in a high cost area, the problem occurs.
+        //so we'll add a high cost for the 2nd run...
 
         Collection<Edge<SimpleCell>> edges = Graph.getEdges(Map[79][76]);
         for(Edge<SimpleCell> edge : edges) {
@@ -94,7 +94,7 @@ public class maptest extends ApplicationAdapter {
         // Write results to window and exit.
         /////////////////////////////////////////////////////
         int totalSteps = Math.min(path1.size(), path2.size());
-        System.out.println("Path 1:                   Path 2:");
+        System.out.println("Path 1: (normal)          Path 2: (wobbly)");
         for (int i = 0; i<totalSteps; i++){
             System.out.println(String.format(
                 "Node %d: X: %2d, Y: %3d     X: %4d, Y: %5d",
