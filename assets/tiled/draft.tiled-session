@@ -1,0 +1,43 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "#Forest": {
+            "scaleInDock": 1
+        },
+        "BasicTiles.tsx": {
+            "scaleInDock": 1
+        },
+        "testmap.tmx": {
+            "scale": 1.87625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 120.1865423051299,
+                "y": 123.11792138574285
+            }
+        },
+        "tiles.tsx": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "C:/game_root/BBnFF/assets/tilesets/fantasy_ [version 2.0]/forest_",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+    ],
+    "project": "draft.tiled-project",
+    "recentFiles": [
+        "testmap.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

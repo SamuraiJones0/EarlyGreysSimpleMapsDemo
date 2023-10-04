@@ -1,0 +1,251 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "realmap1.tmx",
+    "automapping.whileDrawing": false,
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "Tiled Projects (*.tiled-project)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "BasicTiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 32
+        },
+        "desertPath_.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert_ [bridgeAnimatedTiles].tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "desert_ [bridgeHorizontal].tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert_ [bridgeVertical].tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert_ [fencesAndWalls].tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert_ [resources].tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "desert_.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "forest.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "forestPath_.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "forest_ [bridgeAnimatedTiles].tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "forest_ [bridgeHorizontal].tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "forest_ [bridgeVertical].tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "forest_ [fencesAndWalls].tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "forest_ [resources].tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 3
+        },
+        "ice_.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "puddle_.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "quickSand_.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "realmap1.tmx": {
+            "expandedObjectLayers": [
+                6
+            ],
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1455.6666666666665,
+                "y": 280.3333333333333
+            }
+        },
+        "realmap1.tmx#ObjectImages": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "realmap1.tmx#resourceNodes": {
+            "scaleInDock": 1
+        },
+        "resourceNodes.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "rule1.tmx": {
+            "scale": 8,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 16,
+                "y": 16.125
+            }
+        },
+        "swamp_ [bridgeAnimatedTiles].tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "swamp_ [bridgeHorizontal].tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "swamp_ [bridgeVertical].tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "swamp_ [fencesAndWalls].tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "swamp_ [resources].tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "swamp_.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "template.tmx": {
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 105.16666666666666,
+                "y": 63.83333333333332
+            }
+        },
+        "test.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "testmap.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 400,
+                "y": 399.3333333333333
+            }
+        },
+        "testmap.tmx#ObjectImages": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "testmap.tmx#Objects": {
+            "dynamicWrapping": true
+        },
+        "testmap.tmx#resourceNodes": {
+            "scaleInDock": 1,
+            "scaleInEditor": 5.5
+        },
+        "tiles.tsx": {
+            "scaleInDock": 4,
+            "scaleInEditor": 16
+        },
+        "tundraPath_.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tundra_ [bridgeAnimatedTiles].tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "tundra_ [bridgeHorizontal].tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tundra_ [bridgeVertical].tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "tundra_ [fencesAndWalls].tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tundra_ [ice].tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tundra_ [resources].tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "tundra_.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        }
+    },
+    "frame.defaultDuration": 300,
+    "last.externalTilesetPath": "C:/game_root/BBnFF/tiled",
+    "last.imagePath": "C:/game_root/BBnFF/assets/tiled/tilesets/fantasy_ [version 2.0]",
+    "map.height": 2,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 2,
+    "openFiles": [
+        "template.tmx",
+        "realmap1.tmx"
+    ],
+    "project": "BBnFF.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+        "template.tmx",
+        "realmap1.tmx",
+        "forest_ [bridgeVertical].tsx",
+        "forest_ [bridgeAnimatedTiles].tsx",
+        "forest_ [bridgeHorizontal].tsx",
+        "forest.tsx",
+        "tundra_.tsx",
+        "swamp_.tsx",
+        "desert_.tsx",
+        "resourceNodes.tsx",
+        "testmap.tmx",
+        "rule1.tmx"
+    ],
+    "resizeMap.removeObjects": false,
+    "tileset.embedInMap": false,
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
+    "tileset.type": 0
+}
